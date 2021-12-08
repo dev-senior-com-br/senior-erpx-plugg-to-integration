@@ -13,7 +13,7 @@ import io.quarkus.runtime.annotations.RegisterForReflection;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class OrderIntegrationPayload {
 
-    public static final JacksonDataFormat ORDER_INTEGRATION_PAYLOAD_FORMAT = new JacksonDataFormat(PluggToOrder.class);
+    public static final JacksonDataFormat ORDER_INTEGRATION_PAYLOAD_FORMAT = new JacksonDataFormat(OrderIntegrationPayload.class);
 
     public PluggToOrder order;
     public City city;
