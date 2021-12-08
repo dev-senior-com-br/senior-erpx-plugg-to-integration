@@ -9,14 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Conversion from ERPX product to Plugg To product.
+
 ### Changed
 
 ### Fixed
 
 ### Removed
-
-## [0.0.1-alpha] - 2021-12-02
-
-### Added
-
-- Conversion from ERPX product to Plugg To product.

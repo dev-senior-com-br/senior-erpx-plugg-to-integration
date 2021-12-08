@@ -1,6 +1,6 @@
 package br.com.senior.erpxpluggtointeggration;
 
-import br.com.senior.erpx.ProductPayload;
+import br.com.senior.erpx.pessoa.ProductPayload;
 import br.com.senior.pluggto.dto.PluggToProductPayload;
 
 public class ErpxToPluggToConverter {
