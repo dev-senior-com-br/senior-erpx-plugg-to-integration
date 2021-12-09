@@ -6,8 +6,8 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
 
-import br.com.senior.erpx.city.City;
-import br.com.senior.erpx.pessoa.Person;
+import br.com.senior.erpx.local.City;
+import br.com.senior.erpx.person.Person;
 import br.com.senior.pluggto.dto.PluggToOrder;
 import io.quarkus.runtime.annotations.RegisterForReflection;
 
