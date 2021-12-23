@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.senior</groupId>
 	<artifactId>senior-erpx-plugg-to-integration</artifactId>
-	<version>0.0.6-alpha</version>
+	<version>0.0.7-alpha</version>
 	<packaging>jar</packaging>
 
 	<name>Senior ERPX - Plugg To integration</name>
@@ -259,7 +259,7 @@
 		<dependency>
 			<groupId>br.com.senior</groupId>
 			<artifactId>plugg-to-api</artifactId>
-			<version>0.0.5-alpha</version>
+			<version>0.0.6-alpha</version>
 		</dependency>
 		<dependency>
 			<groupId>br.com.senior</groupId>
